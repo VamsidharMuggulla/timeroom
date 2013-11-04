@@ -1,9 +1,14 @@
-LightRoom
+# Time Lapse Workflow
+
+## Step 1 - LightRoom
+
 * Import
 * Make edits
 * Export to JPG as file00001.jpg and up (Could take ~2hrs per 1k photos)
 
-VirtualDub
+
+## Step 2 - VirtualDub
+
 * Import video. Select first jpg. Remaining will load
 * Video -> FIlters -> Add -> Resize
 * Video -> FIlters -> Add -> Deflicker
