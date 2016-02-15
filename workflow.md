@@ -1,3 +1,9 @@
+# Software
+
+* VirtualDub
+** [Deflicker](http://compression.ru/video/deflicker/index_en.html)
+** [Deshaker](http://www.guthspot.se/video/deshaker.htm)
+
 # Time Lapse Workflow
 
 ## Step 1 - LightRoom
