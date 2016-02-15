@@ -3,6 +3,7 @@
 * VirtualDub
   * [Deflicker](http://compression.ru/video/deflicker/index_en.html)
   * [Deshaker](http://www.guthspot.se/video/deshaker.htm)
+  * [xvid](https://www.xvid.com/download/)
 
 # Time Lapse Workflow
 
